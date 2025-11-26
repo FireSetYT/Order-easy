@@ -56,7 +56,7 @@ public:
         cout << "Status: " << m_status << endl << endl;
     }
 };
-сду
+
 int main() {
 
     SetConsoleOutputCP(CP_UTF8);
